@@ -1,0 +1,26 @@
+/* Roboto Slab regular */
+@font-face {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('..webfonts/Roboto Slab/RobotoSlab-Regular.ttf') format('truetype');
+}
+
+/* Roboto Slab thin */
+@font-face {
+    font-family: 'Roboto Slab';
+    font-style: thin;
+    font-weight: 400;
+    font-display: swap;
+    src: url('..webfonts/Roboto Slab/RobotoSlab-Thin.ttf') format('truetype');
+}
+
+/* Roboto Slab bold */
+@font-face {
+    font-family: 'Roboto Slab';
+    font-style: bold;
+    font-weight: 800;
+    font-display: swap;
+    src: url('..webfonts/Roboto Slab/RobotoSlab-Bold.ttf') format('truetype');
+}
