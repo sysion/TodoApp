@@ -162,7 +162,6 @@ ul li {
 	color: #223322;
 	width: 100%;
 	padding: 0.5rem 0.3rem;
-
 	text-align: start;
 }
 
@@ -188,7 +187,8 @@ ul li {
 .delete-button {
 	width: 6rem;
 	margin-top: 0.2rem;
-	background: #ff8c00;
+	background: black;
+	color: #0fedea;
 }
 
 .done-button i,
