@@ -1,7 +1,7 @@
 # Todo App (Vanilla JavaScript)
 
-Simple responsive Todo App using HTML5, CSS3 and plain Javascript. Browser LocalStorage not 
-used hence app does not retain information on reload.
+Simple responsive Todo App using HTML5, CSS3 and plain Javascript. Browser LocalStorage is 
+now used hence app can retain information on reload.
 
 Developed for learning purposes.
 
